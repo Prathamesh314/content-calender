@@ -1,4 +1,4 @@
-package com.example.contentcalender;
+package com.spring.contentcalender;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

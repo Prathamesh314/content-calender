@@ -1,0 +1,4 @@
+# GET request example
+GET https://api.example.com/users
+Content-Type: application/json
+Authorization: Bearer your-token
